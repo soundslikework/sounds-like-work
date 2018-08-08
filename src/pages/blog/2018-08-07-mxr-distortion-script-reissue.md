@@ -7,6 +7,7 @@ tags:
   - mxr
   - overdrive
   - distortion
+  - side-jacks
 ---
 I've always loved the Distortion +. I love the weird yellow color. I love the weird fonts. I even loved that most of these that you find have to be rewired to take a proper power jack.
 
