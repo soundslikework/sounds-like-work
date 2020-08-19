@@ -17,6 +17,9 @@ const Navbar = () => (
         <Link className="navbar-item has-text-white" to="/products">
           Products
         </Link>
+        <Link className="navbar-item has-text-white" to="/tags">
+          Tags
+        </Link>
       </div>
 
       </div>
