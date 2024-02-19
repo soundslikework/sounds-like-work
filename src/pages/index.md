@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Sounds Like Work
-image: /img/home-jumbotron.jpg
+image: /img/hero.jpeg
 heading: Sounds Like Work
 subheading: Guitar pedal reviews & weird sounds
 intro:
