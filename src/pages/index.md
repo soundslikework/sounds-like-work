@@ -3,7 +3,7 @@ templateKey: index-page
 title: Sounds Like Work
 image: /img/hero.jpeg
 heading: Sounds Like Work
-subheading: Guitar pedal reviews & weird sounds
+subheading: Weird sounds are better
 intro:
   blurbs:
     - image: /img/coffee.png
